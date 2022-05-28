@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1653777224714.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1653780756941.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -13,7 +13,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-f841f871-d345-4a85-9677-b7c6bf25fdbf" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 2" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/f841f871-d345-4a85-9677-b7c6bf25fdbf-1653777224714.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/f841f871-d345-4a85-9677-b7c6bf25fdbf-1653780756941.css" />\
       <div class="freeLayout">\
       </div>\
 \
